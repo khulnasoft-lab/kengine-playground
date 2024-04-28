@@ -1,0 +1,19 @@
+{
+    "title": "Deploy Kengine console using docker",
+    "description": "Kengine Console",
+    "details": {
+      "intro": {
+        "title": "Intro",
+        "text": "intro/text.md",
+        "background": "intro/background.sh"
+      },
+      "finish": {
+        "title": "Finish",
+        "text": "finish/text.md",
+        "background": "finish/background.sh"
+      }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
